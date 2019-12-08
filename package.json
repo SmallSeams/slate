@@ -32,17 +32,17 @@
     "release": "lerna version --exact && git push --follow-tags"
   },
   "devDependencies": {
-    "babel-jest": "^22.0.4",
-    "babel-preset-shopify": "^16.2.0",
+    "babel-jest": "^22.4.4",
+    "babel-preset-shopify": "^16.7.0",
     "eslint": "^4.10.0",
     "eslint-plugin-shopify": "^19.0.1",
     "jest": "^23.6.0",
-    "lerna": "^3.11.0",
+    "lerna": "^3.19.0",
     "lerna-changelog": "^0.7.0",
-    "prettier": "^1.7.4",
+    "prettier": "^1.19.1",
     "prettier-stylelint": "^0.4.2",
-    "stylelint": "^9.1.2",
-    "stylelint-config-shopify": "^5.0.0"
+    "stylelint": "^9.10.1",
+    "stylelint-config-shopify": "^5.1.2"
   },
   "prettier": {
     "singleQuote": true,
